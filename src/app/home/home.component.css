@@ -3,3 +3,8 @@
     font-size: 30px;
     font-weight: bold;
 }
+
+.carousel-inner{
+    width: 100%;
+    margin: auto;
+}
